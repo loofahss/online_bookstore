@@ -1,0 +1,12 @@
+.search-bar {
+    margin-bottom: 50px !important;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: -10px;
+    display: block;
+}
+
+.table-container {
+    margin: 0 auto;
+    max-width: 800px;
+}

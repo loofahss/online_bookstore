@@ -1,0 +1,25 @@
+.form-container {
+max-width: 100vh;
+margin: 0 auto;
+padding: 20px;
+/* border: 1px solid #ccc; */
+/* border-radius: 4px; */
+/* background-color: #fff; */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+/* min-height: 100vh; 使容器占满整个视口高度 */
+}
+
+.form-container .ant-form-item {
+margin-bottom: 16px;
+}
+
+.form-container .ant-form-item-label {
+font-weight: bold;
+}
+
+.form-container .ant-btn {
+width: 100%;
+}
